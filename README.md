@@ -68,7 +68,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-pal2&
     srcset="https://raw.githubusercontent.com/adarsh-pal2/adarsh-pal2/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub Contribution Snake"
+    alt="Snake"
     src="https://raw.githubusercontent.com/adarsh-pal2/adarsh-pal2/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
