@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/adarsh-pal2/adarsh-pal2/main/profile-3d-contrib/profile-night-rainbow.svg"
+width="100%"
+alt="3D Contribution Calendar"
+/>
+
+</div>
+
+## ⌚ Weekly Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</div>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-pal2&theme=tokyo-night&hide_border=true&area=true&custom_title=Adarsh%20Pal's%20Contribution%20Graph"
+/>
+
+</div>
+
+
+
+
