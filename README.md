@@ -26,6 +26,55 @@ alt="3D Contribution Calendar"
 
 </div>
 
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
+
+<br/>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=reactnative,expo,androidstudio&theme=dark&perline=8" />
+
+<br/>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,supabase&theme=dark&perline=8" />
+
+<br/>
+
+### 🤖 Data Science & AI
+
+<img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,ollama&theme=dark&perline=8" />
+
+<br/>
+
+### 🧰 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,figma,linux,npm&theme=dark&perline=8" />
+
+<br/>
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,render,cloudinary&theme=dark&perline=8" />
+
+<br/>
+
+### 🔐 Authentication & Services
+
+<img src="https://skillicons.dev/icons?i=clerk&theme=dark&perline=8" />
+
+</div>
+
 ## ⌚ Weekly Coding Stats
 
 <div align="center">
